@@ -10,10 +10,10 @@ A passionate **Frontend Developer** diving deep into the world of **Web3 and Sma
 
 <p align="center">
   <a href="github-readme-stats-three-theta-72.vercel.app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_ANDA]&show_icons=true&theme=tokyonight&rank_icon=github" />
+    <img align="center" src="github-readme-stats-three-theta-72.vercel.app/api?username=kikiexe&show_icons=true&theme=tokyonight&rank_icon=github" />
   </a>
   <a href="github-readme-stats-three-theta-72.vercel.app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_GITHUB_ANDA]&layout=compact&theme=tokyonight" />
+    <img align="center" src="github-readme-stats-three-theta-72.vercel.app/api/top-langs/?username=kikiexe&layout=compact&theme=tokyonight" />
   </a>
 </p>
 
