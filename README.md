@@ -9,10 +9,10 @@ A passionate **Frontend Developer** diving deep into the world of **Web3 and Sma
 <br/>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="github-readme-stats-three-theta-72.vercel.app">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_ANDA]&show_icons=true&theme=tokyonight&rank_icon=github" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="github-readme-stats-three-theta-72.vercel.app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_GITHUB_ANDA]&layout=compact&theme=tokyonight" />
   </a>
 </p>
