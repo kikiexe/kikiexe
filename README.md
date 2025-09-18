@@ -5,5 +5,5 @@ A passionate smart contract & web3 developer from Jogja. I'm developing some pro
 - 🔭 I’m currently collaborating on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about solidity
-- 📫 How to reach me: singgihbrilian.tara06@gmail.com
+- 📫 How to reach me: putraajril2@gmail.com
 - 😄 Fun fact: I think I am funny
