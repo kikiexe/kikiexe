@@ -24,7 +24,7 @@ A passionate **Frontend Developer** diving deep into the world of **Web3 and Sma
 - 🔭 I’m currently building **a cool dApp project with Next.js and ethers.js**.
 - 🌱 I’m exploring **advanced Solidity patterns and smart contract security**.
 - 💬 Ask me about **Next.js, TypeScript, CSS Animations, and Web3 integration**.
-- 📫 How to reach me: **putraajril@gmail.com**
+- 📫 How to reach me: **kikiiiexe@gmail.com**
 - ⚡ Fun fact: I believe the future of the web is decentralized!
 
 ---
