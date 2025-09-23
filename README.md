@@ -18,8 +18,6 @@ A passionate **Frontend Developer** diving deep into the world of **Web3 and Sma
 
 ### 🛠️ Languages and Tools:
 
-Ini adalah teknologi yang sering saya gunakan:
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,figma,html,css,js,ts,react,nextjs,nodejs,solidity" />
