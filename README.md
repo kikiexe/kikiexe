@@ -1,51 +1,28 @@
-### Hi there, I'm Kiki👋
+<div align="center">
 
+# Hi there, I'm Kiki 👋
 
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-<p align="center">
-
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
-</p>
-
-
+<br>
 
 A passionate **Frontend Developer** diving deep into the world of **Web3 and Smart Contracts**. I love building beautiful, responsive, and decentralized applications on the blockchain.
 
-
-
-<br/>
-
-
-
-<p align="center">
-
-  <a href="https://github-readme-stats-three-theta-72.vercel.app">
-
-    <img align="center" src="https://github-readme-stats-three-theta-72.vercel.app/api/top-langs/?username=kikiexe&layout=compact&theme=tokyonight" />
-
-  </a>
-
-</p>
-
-
+</div>
 
 ---
 
+<div align="center">
 
+![Top Languages](https://github-readme-stats-three-theta-72.vercel.app/api/top-langs/?username=kikiexe&layout=compact&theme=tokyonight)
+</div>
 
-### 🛠️ Languages and Tools:
+---
 
+<div align="start">
 
+## Languages and Tools:
 
-<p align="left">
+![Skills](https://skillicons.dev/icons?i=git,figma,mongodb,css,js,ts,react,nextjs,nodejs,solidity,postman,aseprite)
 
-  <a href="https://skillicons.dev">
-
-    <img src="https://skillicons.dev/icons?i=git,figma,mongodb,css,js,ts,react,nextjs,nodejs,solidity,postman" />
-
-    <img src="https://skillicons.dev/icons?i=git,figma,css,js,ts,react,nextjs,nodejs,solidity,postman" />
-
-  </a>
-
-</p>
+</div>
