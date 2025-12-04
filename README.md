@@ -15,6 +15,11 @@ A passionate **Frontend Developer** diving deep into the world of **Web3 and Sma
 <div align="center">
 
 ![Top Languages](https://github-readme-stats-three-theta-72.vercel.app/api/top-langs/?username=kikiexe&layout=compact&theme=tokyonight)
+
+<br/>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pqmdjhoiqiiapqgyiju3ns7x1&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=pqmdjhoiqiiapqgyiju3ns7x1&redirect=true)
+
 </div>
 
 ---
@@ -23,6 +28,6 @@ A passionate **Frontend Developer** diving deep into the world of **Web3 and Sma
 
 ## Languages and Tools:
 
-![Skills](https://skillicons.dev/icons?i=git,figma,mongodb,css,js,ts,react,nextjs,nodejs,solidity,postman,aseprite)
+![Skills](https://skillicons.dev/icons?i=git,figma,mongodb,css,js,ts,react,nextjs,nodejs,solidity,postman,express,firebase,supabase,tailwind)
 
 </div>
