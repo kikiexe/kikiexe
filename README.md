@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi there, I'm Kiki 👋
-
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 <br>
@@ -14,11 +13,11 @@ A passionate **Frontend Developer** diving deep into the world of **Web3 and Sma
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats-three-theta-72.vercel.app/api/top-langs/?username=kikiexe&layout=compact&theme=tokyonight)
-
-<br/>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pqmdjhoiqiiapqgyiju3ns7x1&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=pqmdjhoiqiiapqgyiju3ns7x1&redirect=true)
+<img src="https://github-readme-stats-three-theta-72.vercel.app/api/top-langs/?username=kikiexe&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+&nbsp;
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=pqmdjhoiqiiapqgyiju3ns7x1&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pqmdjhoiqiiapqgyiju3ns7x1&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=false" height="150" alt="Spotify Status" />
+</a>
 
 </div>
 
