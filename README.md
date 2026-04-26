@@ -27,6 +27,6 @@ A passionate **Frontend Developer** diving deep into the world of **Web3 and Sma
 
 ## Languages and Tools:
 
-![Skills](https://skillicons.dev/icons?i=git,figma,mongodb,css,js,ts,react,nextjs,nodejs,solidity,postman,express,firebase,supabase,tailwind)
+![Skills](https://skillicons.dev/icons?i=git,figma,nodejs,solidity,postman,tailwind)
 
 </div>
