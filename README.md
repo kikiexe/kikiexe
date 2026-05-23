@@ -3,13 +3,13 @@
 # Hi there, I'm Kiki 👋
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-<br>
 
-A passionate **Frontend Developer** diving deep into the world of **Web3 and Smart Contracts**. I love building beautiful, responsive, and decentralized applications on the blockchain.
+A passionate **Fullstaclk Developer** diving deep into the world of **Web3 and Smart Contracts**. I love building beautiful, responsive, and decentralized applications on the blockchain.
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=kikiexe&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
-
----
 
 <div align="center">
 
@@ -21,12 +21,5 @@ A passionate **Frontend Developer** diving deep into the world of **Web3 and Sma
 
 </div>
 
----
-
-<div align="start">
-
-## Languages and Tools:
-
-![Skills](https://skillicons.dev/icons?i=git,figma,nodejs,solidity,postman,tailwind)
-
-</div>
+### Languages and Tools:
+<img src="https://skillicons.dev/icons?i=git,docker,nodejs,ts,solidity,postman,linux" height="30" alt="Skills" />
